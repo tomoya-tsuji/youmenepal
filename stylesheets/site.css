@@ -554,7 +554,9 @@ footer {
   .company_member_message {
     font-size: 16px;
     letter-spacing: 0.1rem;
-    line-height: 1.6; }
+    line-height: 1.6;
+    height: 100%;
+    min-height: 77px; }
 
 .company_image_section ul {
   display: -webkit-box;
@@ -605,7 +607,8 @@ footer {
   .company_member_name {
     font-size: 14px; }
   .company_member_message {
-    font-size: 12px; }
+    font-size: 12px;
+    height: 100%; }
 
   .company_image_section ul li {
     width: 50%; } }
